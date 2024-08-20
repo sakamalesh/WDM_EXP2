@@ -53,5 +53,6 @@ G40,high,yes,excellent,yes
 6) Click on Start button and output will be displayed on the right side of the window.
 
 ### OUTPUT:
+![Screenshot 2024-08-20 083130](https://github.com/user-attachments/assets/83514836-5b89-4e9a-ac67-51c74fb281a2)
 
 ### RESULT: 
